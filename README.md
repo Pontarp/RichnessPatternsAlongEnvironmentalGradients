@@ -9,7 +9,7 @@ clusters of similar individuals as species (Pontarp et al.,
 2012, 2015). See also Appendix S1 of the published paper for details.
 
 # main_simulation_prog_5patch.m
-Depending on input arguments this function either runs the simulation as described above.
+Depending on input arguments this function runs the simulation as described above.
 
 # fitfunc.m
 Called by the main script, used for computing individual fitness. 
